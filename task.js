@@ -1,5 +1,4 @@
-// Database name - product
-// Collection name - info
+
 
 
 // 1. Find all the information about each products
